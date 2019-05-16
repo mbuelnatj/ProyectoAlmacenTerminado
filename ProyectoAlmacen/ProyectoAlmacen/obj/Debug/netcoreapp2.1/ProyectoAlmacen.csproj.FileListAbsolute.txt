@@ -1,0 +1,11 @@
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\bin\Debug\netcoreapp2.1\ProyectoAlmacen.deps.json
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\bin\Debug\netcoreapp2.1\ProyectoAlmacen.runtimeconfig.json
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\bin\Debug\netcoreapp2.1\ProyectoAlmacen.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\bin\Debug\netcoreapp2.1\ProyectoAlmacen.dll
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\bin\Debug\netcoreapp2.1\ProyectoAlmacen.pdb
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\obj\Debug\netcoreapp2.1\ProyectoAlmacen.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\obj\Debug\netcoreapp2.1\ProyectoAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\obj\Debug\netcoreapp2.1\ProyectoAlmacen.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\obj\Debug\netcoreapp2.1\ProyectoAlmacen.AssemblyInfo.cs
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\obj\Debug\netcoreapp2.1\ProyectoAlmacen.dll
+C:\Users\Miguel\Documents\Poo\ProyectoAlmacen\ProyectoAlmacen\obj\Debug\netcoreapp2.1\ProyectoAlmacen.pdb
